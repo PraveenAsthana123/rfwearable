@@ -1,0 +1,5 @@
+[General]
+auto-detect=none
+auto-load-children=true
+master=rf-wearable-review-C.tex
+name=RF-Wearable-Review-C
