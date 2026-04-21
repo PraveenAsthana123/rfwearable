@@ -1,0 +1,30 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.spl
+texput.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor backups
+*~
+*.swp
+*.bak
+
+# Keep PDFs (compiled papers) and PNGs (300 DPI figures)
+# But ignore downloaded reference papers (too large for git)
+# *.pdf  — we WANT paper PDFs in the repo
+
+# Download script
+download_papers.sh
